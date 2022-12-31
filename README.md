@@ -1,7 +1,9 @@
 
 # My first game to practice JavaScript
 
-There's a lot of problems with JavaScript, so if you want to improve your JavaScript skills you can optimize code for this game!
+Game on Javascript where you can test your luck!
+
+There's a lot of problems with JavaScript because it was my first big project on it, so if you want to improve your JavaScript skills you can optimize code for this game!
 ## Screenshots
 
 ![App Screenshot](https://i.ibb.co/k9WXDnv/chrome-h-WZUO0-DTg8.png)
